@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{30DD5978-6ADA-CA23-4D6E-B080DE370105}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/状态机C#/StandingState.cs">
+    <Files>
+      <File FileName="Assets/状态机C#/JumpingState.cs" Line="8" Column="24" />
+      <File FileName="Assets/状态机C#/DrivingState.cs" Line="14" Column="60" />
+      <File FileName="Assets/状态机C#/MoveController.cs" Line="70" Column="37" />
+      <File FileName="Assets/状态机C#/DuckingState.cs" Line="16" Column="145" />
+      <File FileName="Assets/状态机C#/StandingState.cs" Line="11" Column="108" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework2ndWeek" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="状态机C#" expanded="True">
+                <Node name="StandingState.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eaeeb219-3e0f-4c2e-8514-eabe13ff7b1c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
