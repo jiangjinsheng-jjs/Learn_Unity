@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{89100E54-EE7D-534F-119C-56EB0108D3F1}</ProjectGuid>
+    <ProjectGuid>{3F178531-0037-D011-85E2-D48C42CC0D2E}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -259,53 +259,53 @@
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>/Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/AddIns/MonoDevelop.Unity/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
-    <Reference Include="YamlDotNet">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
-    </Reference>
-    <Reference Include="Ludiq.Graphs.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Ludiq.Core.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Ludiq.Graphs.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Bolt.Core.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Ionic.Zip">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
-    </Reference>
-    <Reference Include="Bolt.Flow.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Ludiq.Platforms">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
-    </Reference>
-    <Reference Include="MiscUtil">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/MiscUtil.dll</HintPath>
-    </Reference>
-    <Reference Include="Bolt.Core.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Ludiq.Core.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Antlr3.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
-    </Reference>
-    <Reference Include="Bolt.State.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
+    <Reference Include="Bolt.Flow.Editor">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Bolt.State.Runtime">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.State.Runtime.dll</HintPath>
     </Reference>
-    <Reference Include="Bolt.Flow.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Assets/状态机C#/Ludiq/Assemblies/Bolt.Flow.Editor.dll</HintPath>
+    <Reference Include="Antlr3.Runtime">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ionic.Zip">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ionic.Zip.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Core.Editor">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Core.Runtime">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="YamlDotNet">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/YamlDotNet.dll</HintPath>
+    </Reference>
+    <Reference Include="MiscUtil">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/MiscUtil.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Graphs.Runtime">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Graphs.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Platforms">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Platforms.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Graphs.Editor">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Graphs.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Ludiq.Core.Editor">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Ludiq.Core.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.State.Editor">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.State.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Core.Runtime">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.Core.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Bolt.Flow.Runtime">
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Assets/状态机C#/Ludiq/Assemblies/Bolt.Flow.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/PackageCache/com.unity.ext.nunit@1.0.0/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib">
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
@@ -662,42 +662,42 @@
       <HintPath>/Applications/Unity/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityscript/Boo.Lang.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/Homework2ndWeek/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>/Users/jiang/Documents/GitHub/desktop-tutorial/02.脚本语言基础/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{30DD5978-6ADA-CA23-4D6E-B080DE370105}</Project>
+      <Project>{6C7670EE-E378-CD69-3017-3A5F98EE5DD2}</Project>
       <Name>Assembly-CSharp</Name>
     </ProjectReference>
   </ItemGroup>

@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{30DD5978-6ADA-CA23-4D6E-B080DE370105}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../02.脚本语言基础/Assets/Lua/NewBehaviourScript.cs">
+    <Files>
+      <File FileName="Assets/状态机C#/DrivingState.cs" Line="16" Column="36" />
+      <File FileName="Assets/状态机C#/MoveController.cs" Line="70" Column="37" />
+      <File FileName="Assets/状态机C#/DuckingState.cs" Line="15" Column="73" />
+      <File FileName="Assets/状态机C#/StandingState.cs" Line="15" Column="69" />
+      <File FileName="../02.脚本语言基础/Assets/Lua/NewBehaviourScript.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Homework2ndWeek" expanded="True">
+            <Node name="Assets" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="eaeeb219-3e0f-4c2e-8514-eabe13ff7b1c" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
