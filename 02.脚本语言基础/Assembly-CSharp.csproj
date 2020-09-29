@@ -63,7 +63,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Lua\NewBehaviourScript.cs" />
     <Compile Include="Assets\状态机C#\DrivingState.cs" />
     <Compile Include="Assets\状态机C#\DuckingState.cs" />
     <Compile Include="Assets\状态机C#\Heroine.cs" />
