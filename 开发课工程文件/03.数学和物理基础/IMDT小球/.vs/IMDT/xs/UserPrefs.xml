@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{61211EE8-2415-A772-1D7D-6B241E377E2F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OtherSphere.cs">
+    <Files>
+      <File FileName="Assets/Shaders/Backgound.shader" Line="38" Column="48" />
+      <File FileName="Assets/PlanarReflectionMatrixSettingScript.cs" Line="5" Column="1" />
+      <File FileName="Assets/OtherSphere.cs" Line="24" Column="15" />
+      <File FileName="Assets/CollosionTest.cs" Line="62" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="IMDT" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Shaders" expanded="True" />
+              <Node name="OtherSphere.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="3badabbe-26f8-4c96-9988-58e512369dec" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
