@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F894C997-EFFB-FBFD-A1B4-C6B97C63E3E6}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HitSpark.cs">
+    <Files>
+      <File FileName="Assets/HitSpark.cs" Line="7" Column="12" />
+      <File FileName="Assets/Invector-3rdPersonController/Basic Locomotion/Scripts/Camera/vThirdPersonCamera.cs" />
+      <File FileName="../../../../Engine/工程/1-3课引擎课工程/Assets/03.碰撞和物理（一）/BallMaster.cs" />
+      <File FileName="Assets/Invector-3rdPersonController/Melee Combat/Scripts/MeleeWeapon/vHitBox.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="动画技术 第三人称动作" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Invector-3rdPersonController" expanded="True">
+                <Node name="Basic Locomotion" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="Camera" expanded="True" />
+                  </Node>
+                </Node>
+                <Node name="Melee Combat" expanded="True">
+                  <Node name="Scripts" expanded="True">
+                    <Node name="MeleeWeapon" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="HitSpark.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8ec046e2-1d97-4dd4-891a-0a2c4025eb33" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
