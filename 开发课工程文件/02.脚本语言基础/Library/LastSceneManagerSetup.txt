@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "Assets/\u72B6\u6001\u673AC#/S2.unity"
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0

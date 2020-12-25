@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/Invector-3rdPersonController/Melee Combat/DemoScenes/Invector_MeleeCombat_NoInventory.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
